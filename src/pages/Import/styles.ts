@@ -54,3 +54,7 @@ export const Footer = styled.section`
     }
   }
 `;
+
+export const Error = styled.p`
+  color: #e83f5b;
+`;
